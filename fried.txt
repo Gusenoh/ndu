@@ -1,0 +1,71 @@
+Selenium Class 2: Introduction to selenium Part-2
+-------------------------------------------------
+4) Selenium Suporting to environments
+
+5) Selenium License
+
+6) Testing framework and other tools used in selenium
+
+7) Selenium Environment setup
+
+8) Advantage of Selenium
+
+9) Disadvantage of Selenium
+-----------------------------------
+
+4) Selenium Suporting to environments
+
+a) Operating Env
+
+MS window
+
+Linux
+
+Macintosh
+
+Apple OX
+
+b) Application Env
+
+i) CUI bases app(command based user interface app- Selenium doesn't support)
+
+ii) Windows based - Selenium doesn't support
+
+iii) Web based app -Selenium does support
+
+iv) Mobile based app - Support only mobile app which have wed forms.
+(doesn't support native applications and hybrid applications)
+-----------------------------------------------------------------------
+
+
+c) programming Environment
+Java
+
+C#
+
+Python
+
+Perl
+
+Rubby
+
+PHP
+
+Note: Selenium IDE doesn't support any programmin language
+Selenium Grid is only for execution
+--------------------------
+
+d) Browser Environment
+
+Google Chrome
+
+Mozilla Firefox
+
+IE
+
+Safari
+
+Opra etc......
+
+Note: Selenium IDE supports only mozilla Firefox
+
